@@ -3,8 +3,10 @@ Simple IP and port scanner
 
 <h1>Installation</h1>
 
-$  apt install python3
-$  git clone https://github.com/Exploit-A/SS-Scanner.git
-$  cd SS-Scanner
-$  python SS-Scanner.py
+<p>$  apt install python3</p>
+<p>$  git clone https://github.com/Exploit-A/SS-Scanner.git</p>
+<p>$  cd SS-Scanner</p>
+<p>$  python SS-Scanner.py</p>
+
+<p> :D </p>
 
