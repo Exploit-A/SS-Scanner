@@ -13,7 +13,7 @@ print("")
 
 # Set socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
+s.settimeout(5)
 def portScan():
 	host = input("Enter site's IP: ")
 	port = int(input("Enter site's port: "))
